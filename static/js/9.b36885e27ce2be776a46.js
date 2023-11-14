@@ -1,0 +1,2 @@
+webpackJsonp([9],{STMa:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("用户收藏信息")])},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("SmG7")},null,null);t.default=s.exports},SmG7:function(e,t){}});
+//# sourceMappingURL=9.b36885e27ce2be776a46.js.map
